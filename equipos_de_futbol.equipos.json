@@ -1,0 +1,192 @@
+[{
+  "_id": 1,
+  "abbreviation": "arg",
+  "country": "argentina",
+  "confederation": "conmebol"
+},
+{
+  "_id": 2,
+  "abbreviation": "aus",
+  "country": "australia",
+  "confederation": "uefa"
+},
+{
+  "_id": 3,
+  "abbreviation": "bel",
+  "country": "belgium",
+  "confederation": "uefa"
+},
+{
+  "_id": 4,
+  "abbreviation": "bra",
+  "country": "brazil",
+  "confederation": "conmebol"
+},
+{
+  "_id": 5,
+  "abbreviation": "col",
+  "country": "colombia",
+  "confederation": "conmebol"
+},
+{
+  "_id": 6,
+  "abbreviation": "crc",
+  "country": "costa rica",
+  "confederation": "concacaf"
+},
+{
+  "_id": 7,
+  "abbreviation": "cro",
+  "country": "croatia",
+  "confederation": "uefa"
+},
+{
+  "_id": 8,
+  "abbreviation": "den",
+  "country": "denmark",
+  "confederation": "eufa"
+},
+{
+  "_id": 9,
+  "abbreviation": "egy",
+  "country": "egypt",
+  "confederation": "caf"
+},
+{
+  "_id": 10,
+  "abbreviation": "eng",
+  "country": "england",
+  "confederation": "uefa"
+},
+{
+  "_id": 11,
+  "abbreviation": "fra",
+  "country": "france",
+  "confederation": "uefa"
+},
+{
+  "_id": 12,
+  "abbreviation": "ger",
+  "country": "germany",
+  "confederation": "eufa"
+},
+{
+  "_id": 13,
+  "abbreviation": "isl",
+  "country": "iceland",
+  "confederation": "eufa"
+},
+{
+  "_id": 14,
+  "abbreviation": "irn",
+  "country": "ir iran",
+  "confederation": "afc"
+},
+{
+  "_id": 15,
+  "abbreviation": "jpn",
+  "country": "japan",
+  "confederation": "afc"
+},
+{
+  "_id": 16,
+  "abbreviation": "kor",
+  "country": "korea republic",
+  "confederation": "afc"
+},
+{
+  "_id": 17,
+  "abbreviation": "mex",
+  "country": "méxico",
+  "confederation": "concacaf"
+},
+{
+  "_id": 18,
+  "abbreviation": "mar",
+  "country": "morocco",
+  "confederation": "caf"
+},
+{
+  "_id": 19,
+  "abbreviation": "nga",
+  "country": "nigeria",
+  "confederation": "caf"
+},
+{
+  "_id": 20,
+  "abbreviation": "pan",
+  "country": "panamá",
+  "confederation": "concacaf"
+},
+{
+  "_id": 21,
+  "abbreviation": "per",
+  "country": "perú",
+  "confederation": "conmebol"
+},
+{
+  "_id": 22,
+  "abbreviation": "pol",
+  "country": "poland",
+  "confederation": "uefa"
+},
+{
+  "_id": 23,
+  "abbreviation": "por",
+  "country": "portugal",
+  "confederation": "uefa"
+},
+{
+  "_id": 24,
+  "abbreviation": "rus",
+  "country": "russia",
+  "confederation": "uefa"
+},
+{
+  "_id": 25,
+  "abbreviation": "ksa",
+  "country": "saudi arabia",
+  "confederation": "afc"
+},
+{
+  "_id": 26,
+  "abbreviation": "sen",
+  "country": "senegal",
+  "confederation": "caf"
+},
+{
+  "_id": 27,
+  "abbreviation": "srb",
+  "country": "serbia",
+  "confederation": "uefa"
+},
+{
+  "_id": 28,
+  "abbreviation": "esp",
+  "country": "spain",
+  "confederation": "uefa"
+},
+{
+  "_id": 29,
+  "abbreviation": "sui",
+  "country": "sweden",
+  "confederation": "uefa"
+},
+{
+  "_id": 30,
+  "abbreviation": "swe",
+  "country": "switzerland",
+  "confederation": "uefa"
+},
+{
+  "_id": 31,
+  "abbreviation": "tun",
+  "country": "tunisia",
+  "confederation": "caf"
+},
+{
+  "_id": 32,
+  "abbreviation": "uru",
+  "country": "uruguay",
+  "confederation": "conmebol"
+}]

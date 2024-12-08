@@ -1,0 +1,33 @@
+_id,abbreviation,country,confederation
+1,arg,argentina,conmebol
+2,aus,australia,uefa
+3,bel,belgium,uefa
+4,bra,brazil,conmebol
+5,col,colombia,conmebol
+6,crc,costa rica,concacaf
+7,cro,croatia,uefa
+8,den,denmark,eufa
+9,egy,egypt,caf
+10,eng,england,uefa
+11,fra,france,uefa
+12,ger,germany,eufa
+13,isl,iceland,eufa
+14,irn,ir iran,afc
+15,jpn,japan,afc
+16,kor,korea republic,afc
+17,mex,méxico,concacaf
+18,mar,morocco,caf
+19,nga,nigeria,caf
+20,pan,panamá,concacaf
+21,per,perú,conmebol
+22,pol,poland,uefa
+23,por,portugal,uefa
+24,rus,russia,uefa
+25,ksa,saudi arabia,afc
+26,sen,senegal,caf
+27,srb,serbia,uefa
+28,esp,spain,uefa
+29,sui,sweden,uefa
+30,swe,switzerland,uefa
+31,tun,tunisia,caf
+32,uru,uruguay,conmebol
